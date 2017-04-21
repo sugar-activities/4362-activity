@@ -1,0 +1,7 @@
+[Activity]
+name = idle
+service_name = org.x.idle
+icon = idle
+activity_version = 2
+show_launcher = yes
+exec = sugaridle
